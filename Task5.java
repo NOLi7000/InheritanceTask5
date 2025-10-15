@@ -41,7 +41,7 @@ class Manager extends Employee {
 
     
     void manage() {
-        System.out.println(name + " is managing the " + department + " department.");
+        System.out.println(name + " is managing   the " + department + "   department.");
     }
 }
 
