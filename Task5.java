@@ -70,7 +70,7 @@ public class Task5 {
         Student student = new Student("David", 20, "High School");
 
         
-        System.out.println("=== Person ===");
+        System.out.println("===  Person  ===");
         person.displayInfo();
 
         System.out.println("\n=== Employee (Single Inheritance) ===");
