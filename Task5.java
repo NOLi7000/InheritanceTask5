@@ -80,7 +80,7 @@ public class Task5 {
         manager.displayInfo();
         manager.manage();
 
-        System.out.println("\n=== Student (Hierarchical Inheritance) ===");
+        System.out.println("\n=== Student(Hierarchical Inheritance)===");
         student.displayInfo();
     }
 }
