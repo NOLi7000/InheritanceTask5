@@ -57,7 +57,7 @@ class Student extends Person {
     
     @Override
     void displayInfo() {
-        System.out.println("Student Name: " + name + ", Age: " + age + ", School: " + school);
+        System.out.println("Student  Name: " + name + ", Age: " + age + ",  School: " + school);
     }
 }
 
