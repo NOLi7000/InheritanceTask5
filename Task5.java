@@ -76,7 +76,7 @@ public class Task5 {
         System.out.println("\n===  Employee  (Single Inheritance) ===");
         employee.displayInfo();
 
-        System.out.println("\n=== Manager (Multilevel Inheritance) ===");
+        System.out.println("\n===  Manager(Multilevel Inheritance) ===");
         manager.displayInfo();
         manager.manage();
 
